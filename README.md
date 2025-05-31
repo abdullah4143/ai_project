@@ -47,7 +47,9 @@ git clone <repository-link>
 ### 🔹 Step 1: Open Folders Separately
 
 Open two terminal windows—one for the **frontend** folder and one for the **backend** folder.
+copy the env files added seperately on the gcr
 
+run the python script and copy the ngrok link and paste it in the frontend/app/api/summarize/route.ts and at api/paraphrase/route.ts
 ---
 
 ### 🔹 Step 2: Install Dependencies
