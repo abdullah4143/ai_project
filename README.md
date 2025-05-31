@@ -3,7 +3,20 @@
 ## Group Members
 
 - **Abdullah Ashraf** - 221405  
-- **Khalfan Khan** - 221384  
+- **Khalfan Khan** - 221384
+- 
+## 📝 Project Summary
+
+This project is a full-stack AI-powered blogging platform that enhances the writing experience by integrating Natural Language Processing (NLP) features such as **content paraphrasing** and **summarization**. The platform allows users to write, edit, and improve their blog posts using AI tools.
+
+The frontend is built with **Next.js** and styled using **Tailwind CSS**, offering a smooth and modern user interface. The backend is developed using **Node.js** and **Express**, while the AI functionalities are powered by **Python models** hosted on **Google Colab** and exposed to the frontend via **ngrok** tunnels.
+
+Users can:
+- Sign up and log in
+- Create blog posts
+- Use AI to paraphrase or summarize their content for clarity and variety
+
+This solution combines web development with real-time AI services, offering a hands-on demonstration of how language models can be integrated into everyday web applications.
 
 ## 🧰 Technologies Used
 
@@ -18,7 +31,6 @@
 
 ### 🤖 AI & NLP
 - Python
-- Transformers (Hugging Face)
 - Google Colab
 - Ngrok for tunneling
 
